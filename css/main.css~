@@ -1,0 +1,136 @@
+*{
+margin: 0px;
+}
+
+.cabecario {
+position: absolute;
+width: 1440px;
+height: 174px;
+left: 0px;
+top: 0px;
+background: #6E83CF;
+}
+.logo{
+position: absolute;
+width: 213px;
+height: 190px;
+left: 12px;
+top: 0px;
+}
+.nome{
+position: absolute;
+width: 600px;
+height: 65px;
+left: 420px;
+top: 36px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 65px;
+color: #0E0B00;
+}
+.curriculo{
+position: absolute;
+width: 176px;
+height: 30px;
+left: 469px;
+top: 107px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+}
+.projecoes{
+position: absolute;
+width: 200px;
+height: 57px;
+left: 765px;
+top: 107px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+}
+.linkedin{
+position: absolute;
+width: 110px;
+height: 76px;
+left: 1160px;
+top: 50px;
+}
+.telegram{
+position: absolute;
+width: 80px;
+height: 76px;
+left: 1100px;
+top: 50px;
+}
+.fundo{
+position: absolute;
+width: 1440px;
+height: 1200px;
+left: 0px;
+top: 195px;
+background: #241B89;
+}
+.fundo2{
+position: absolute;
+width: 1202px;
+height: 644px;
+left: 118px;
+top: 301px;
+background: #C4C4C4;
+border-radius: 10px;
+}
+.foto{
+position: absolute;
+width: 276px;
+height: 248px;
+left: 850px;
+top: 350px;
+border-radius: 10px;
+}
+.texto{
+position: absolute;
+width: 1060px;
+height: 544px;
+left: 90px;
+top: 50px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 19px;
+color: #000000;
+}
+.curriculo2{
+position: absolute;
+width: 232px;
+height: 47px;
+left: 600px;
+top: 25px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 65px;
+color: #0E0B00;
+}
+.sobre{
+position: absolute;
+width: 176px;
+height: 30px;
+left: 469px;
+top: 107px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+}
