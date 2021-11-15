@@ -8,9 +8,9 @@
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@200&family=Yellowtail&display=swap" rel="stylesheet">
 		<link href="stylesheet" type="text/css" href="../css/normalize.css" />
-		<link rel="stylesheet" type="text/css" href="../css/estilo.css">
+		<link rel="stylesheet" type="text/css" href="../css/teste.css">
 		<link rel="shortcut icon" href="../img/logo.png" type="imagen/x-icon" />
-		<title>Curriculo</title>
+		<title>Sobre Mim</title>
 	</head>
 <body>
 	
@@ -40,26 +40,16 @@
 			<!--<div id="eu">
 				<img class="foto" src="../img/foto.png" alt="foto">
 			</div>-->	
-				<h1 class="texto">Curriculo</h1>
-				<h3>Minha Formação</h3>
-				<br/>
-				<ul class="formacao">
-					<h4>Formação Acadêmica</h4>
-					<br/>
-						<li>Licenciatura Plena em Geografia e Licenciatura Curta em História Pela faculdade de Filosofia Ciências e Letras de Tatuí.</li>
-						<li>Cursando Desenvolvimento de Software Multiplataforma na Fatec de São José dos Campos.</li>	
-					<br/>
-					<h4>Experiência Profissional</h4>
-					<br/>
-						<li>Visitador Sanitário na Prefeitura de Tatuí de 2005 à 2011;</li>
-						<li>Professor na Prefeitura de Capela do Alto de 2011 à 2016;</li>
-						<li>Professor pelo Estado de São Paulo no Município de Tatuí em 2011;</li>
-						<li>Professor na Prefeitura de Iperó de 2013 à 2016;</li>
-						<li>Professor na Prefeitura de Porto Feliz em 2017.</li>	
-						<li>Venda de produtos digitais e físicos usando as redes sociais de 2015 até hoje.</li>			
-				</ul>	
-				</br>
-				<p>Sou comunicativo, calmo e com ótima interação em grupo, acostumado a lidar com diferentes tipos de pessoas. Sou dinâmico e me adapto rápido as nescessidades.</p>
+				<h1 class="texto">Sobre Mim.</h1>
+				<p>Um pouco da minha história</p>
+				<p>Me chamo Rafael Peressoni Waltrick, tenho 42 anos, nascido em Manaus-AM em 02 de Outubro de 1979.</p>	
+				<p>Tive uma vida confortável em todos os sentidos, me proporcionando oportunidades de superar minhas dificuldades,
+				 o que acredito que a grande maioria das pessoas não tem, e isso, junto as minhas experiências como professor
+				me mostraram como isso pode mudar a realidade.</p>
+				<p>Na minha vida escolar, principalmente no colegial, hoje o ensino médio, eu tive muitas dificuldades por não me adaptar
+				ao ensino tradicional e só consegui superar essas dificuldades por ter apoio familiar, oferecendo apoio
+				 e com isso tive a tranquilidade de aos 22 para 23 fazer um tratamento junto a uma psicopedagoga, o que me permitiu 
+				 superar as dificuldades e correr atrás do tempo perdido e fazer uma faculdade</p>			
 					
 	</header>
 	
@@ -77,7 +67,7 @@
 			</div>
 	</section>
 	
-	<footer class="rodape">
+	<footer>
 		<p>Criado e desenvolvido por Rafael Peressoni Waltrick</p>
 	</footer>
 </body>

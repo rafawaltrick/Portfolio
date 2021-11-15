@@ -7,14 +7,22 @@ font-family: open-sans, sans-serif;
 color: black;
 }
 
-h1,h2{
+h1,h2,h3,h4{
 font-family: oswald, sans-serif;
 color: black;
+text-align: justify;
 }
 
 p{
 line-height: 20px;
 text-align: justify;
+text-indent: 2em;
+margin: 0;
+}
+
+.formacao{
+line-height: 20px;
+text-align: right;
 text-indent: 2em;
 margin: 0;
 }
