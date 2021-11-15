@@ -12,3 +12,8 @@
 
 
 <h2> Linkpara assistir o vídeo. https://youtu.be/_gWxrnR1660 </h2>
+
+
+<h1 align="center"> Segunda Entrega </h1>
+
+<h2> Linkpara assistir o vídeo. https://youtu.be/SkNT7cMpLT8 </h2>
