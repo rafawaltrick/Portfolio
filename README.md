@@ -11,9 +11,14 @@
 |      Template         | Arquivos HTML. |  
 
 
-<h2> Linkpara assistir o vídeo. https://youtu.be/_gWxrnR1660 </h2>
+<h2> Link para assistir o vídeo entrega 1. https://youtu.be/_gWxrnR1660 </h2>
 
 
 <h1 align="center"> Segunda Entrega </h1>
 
-<h2> Linkpara assistir o vídeo. https://youtu.be/SkNT7cMpLT8 </h2>
+|Entregas               |                                       Links para tags                                                                 |
+:---------------------: | :-------------------------------------------------------------------------------------------------------------------: | 
+|       Entrega 1       | <a href="https://github.com/rafawaltrick/Portfolio/releases/tag/V1">Link</a>                                          |  
+|       Entrega 2       | <a href="https://github.com/rafawaltrick/Portfolio/releases/tag/V2">Link</a>                                          |
+
+<h2> Link para assistir o vídeo entrega 2. https://youtu.be/SkNT7cMpLT8 </h2>
