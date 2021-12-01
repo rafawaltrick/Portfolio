@@ -160,7 +160,7 @@ color: white;
 }
 
 .rodape{
-text-align: center;
+text-align: justify;
 }
 
 #rosa{
