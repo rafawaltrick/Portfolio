@@ -25,6 +25,6 @@
 
 <h1 align="center"> Terceira Entrega </h1>
 
-<h1> Link para acessar o Portfólio </h1>
+<h1> Portfólio </h1>
 
-<a href="https://waltrick.herokuapp.com/sobremim">Link</a>
+<a href="https://waltrick.herokuapp.com/sobremim" target="_blank">Para Navegar no Portfólio</a>
