@@ -4,6 +4,7 @@ app = Flask(__name__)
 @app.route("/projecao")
 def projecao():
     return render_template("projecao.html")
+@app.route("/")    
 @app.route("/sobremim")
 def sobremim():
     return render_template("sobremim.html")

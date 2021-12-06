@@ -11,7 +11,7 @@
     width: 74px;
 }
 .telegram{
-    width: 54px;
+    width: 44px;
 }
 .nome,.menu li a{
     text-decoration: none;
@@ -26,8 +26,8 @@
     list-style: none;
     padding: 0;
 }
-.menu li{
-    width: 40vh;
+.menu li.pagina{
+    width: 28vh;
 }
 .menu li a{
     font-family: open-sans, sans-serif;
@@ -44,5 +44,11 @@ header{
     box-shadow: 5px 5px 15px rgba(0,0,0,0.5), -5px -5px 15px rgba(0,0,0,0.5);
     border-radius: 10px;
     margin: 2rem;
-
+}
+.container-fluid{
+    display: flex;
+    justify-content: flex-end;
+}
+.logo-rodape{
+    height: 3.5rem;
 }
