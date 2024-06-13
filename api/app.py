@@ -10,7 +10,7 @@ def sobremim():
     return render_template("sobremim.html")
 @app.route("/curriculo")
 def curriculo():
-    return render_template("curriculo.html")    
+    return render_template("teste.html")    
 
 
 if __name__=="__main__":
